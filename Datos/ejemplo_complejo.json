@@ -1,0 +1,28 @@
+{
+    "Personas": [
+        {
+            "ID": 1,
+            "Detalles": {
+                "Nombre": "Juan",
+                "Edad": 28
+            },
+            "Ciudad": "Bogot\u00e1"
+        },
+        {
+            "ID": 2,
+            "Detalles": {
+                "Nombre": "Mar\u00eda",
+                "Edad": 34
+            },
+            "Ciudad": "Medell\u00edn"
+        },
+        {
+            "ID": 3,
+            "Detalles": {
+                "Nombre": "Carlos",
+                "Edad": 29
+            },
+            "Ciudad": "Cali"
+        }
+    ]
+}
